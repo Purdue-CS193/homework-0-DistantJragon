@@ -1,4 +1,4 @@
-#Jacob Goodwin's First CS193 Homework
+# Jacob Goodwin's First CS193 Homework
 
 My Favorite Things about CS193
 - The big screen projection
